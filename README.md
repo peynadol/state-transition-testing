@@ -6,8 +6,8 @@ This README documents my work for the Makers Bank sign-up and usage challenge. I
 1. Account does not exist - No record of this account in the database
 2. Account registered - Email exists in database, user is not logged in
 3. Account logged in - User is active
-4. Account suspended - User is temporaralily blocked, e.g too many failed login attempts
-5. Account deleted - Account permanently removed, no transitions out
+4. Account suspended - User is temporarily blocked, e.g too many failed login attempts
+6. Account deleted - Account permanently removed, no transitions out
 
 ## Events
 1. User creates account
@@ -55,7 +55,7 @@ This README documents my work for the Makers Bank sign-up and usage challenge. I
 1. Start - account registered
 2. Bank deletes account => account deleted
 
-## Working notes
+## Working notes from Excalidraw
 <img width="2968" height="1474" alt="image" src="https://github.com/user-attachments/assets/98b2b611-8673-44fb-953b-b5c8da842f31" />
 <img width="2232" height="1626" alt="image" src="https://github.com/user-attachments/assets/9f7506ee-77e0-40e4-916a-013433d239d4" />
 
